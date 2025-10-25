@@ -4,9 +4,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9-blue" />
   <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-brightgreen" />
-  <img src="https://img.shields.io/badge/Streamlit-Ready-orange" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Manipulation-orange" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-yellow" />
   <img src="https://img.shields.io/badge/Status-Completed-success" />
 </p>
+
 
 ## Overview
 This project performs Exploratory Data Analysis (EDA) on a sample supply chain dataset to identify bottlenecks, supplier performance, shipment delays, and cost trends.
