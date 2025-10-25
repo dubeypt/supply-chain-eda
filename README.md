@@ -49,11 +49,13 @@ This project performs Exploratory Data Analysis (EDA) on a sample supply chain d
   - Cost trends
 - Actionable insights to reduce delays and optimize inventory
 
-  ## Key Visual Insights
-![Top 10 SKUs by Revenue](SKU VS Revenue.png)
-![Customer Revenue Segmentation](Customer Revenue segmentation.png)
-![Correlation Heatmap](Coorelation Heatmap.png)
-![Premium Product Outliers](Prmium Outliers.png)
+## Key Visual Insights
+
+![Top SKUs by Revenue](SKU_vs_Revenue.png)
+![Customer Revenue Segmentation](Customer_Revenue_Segmentation.png)
+![Correlation Heatmap](Correlation_Heatmap.png)
+![Premium Product Outliers](Premium_Outliers.png)
+
 
 **Summary:**  
 This EDA highlights top-selling products, customer segments, supplier performance, and cost-efficiency insights.
