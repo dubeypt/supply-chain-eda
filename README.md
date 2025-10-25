@@ -49,6 +49,16 @@ This project performs Exploratory Data Analysis (EDA) on a sample supply chain d
   - Cost trends
 - Actionable insights to reduce delays and optimize inventory
 
+  ## Key Visual Insights
+![Top 10 SKUs by Revenue](SKU VS Revenue.png)
+![Customer Revenue Segmentation](Customer Revenue segmentation.png)
+![Correlation Heatmap](Coorelation Heatmap.png)
+![Premium Product Outliers](Prmium Outliers.png)
+
+**Summary:**  
+This EDA highlights top-selling products, customer segments, supplier performance, and cost-efficiency insights.
+
+
 ## How to Run
 ```bash
 git clone https://github.com/dubeypt/supply-chain-eda.git
