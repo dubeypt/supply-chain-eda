@@ -57,11 +57,12 @@ This project performs Exploratory Data Analysis (EDA) on a sample supply chain d
 ![Premium Product Outliers](Prmium_Outliers.png)
 
 
-
-
 **Summary:**  
 This EDA highlights top-selling products, customer segments, supplier performance, and cost-efficiency insights.
 
+## 📊 Conclusion
+This EDA provided actionable insights into supplier performance, shipment delays, cost optimization, and revenue trends.
+The analysis can help organizations improve demand forecasting and reduce logistics inefficiencies.
 
 ## How to Run
 ```bash
@@ -71,3 +72,7 @@ python -m venv venv
 source venv/bin/activate   # On Windows use: venv\Scripts\activate
 pip install -r requirements.txt
 jupyter lab
+```
+
+**Author:** [Aditya Dubey](https://github.com/dubeypt)  
+*Data Science | Analytics | AI And ML Enthusiast*
