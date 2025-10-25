@@ -9,29 +9,51 @@
   <img src="https://img.shields.io/badge/Status-Completed-success" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/dubeypt/supply-chain-eda">
+    <img src="https://img.shields.io/github/license/dubeypt/supply-chain-eda" />
+    <img src="https://img.shields.io/github/issues/dubeypt/supply-chain-eda" />
+    <img src="https://img.shields.io/github/forks/dubeypt/supply-chain-eda" />
+    <img src="https://img.shields.io/github/stars/dubeypt/supply-chain-eda" />
+    <img src="https://img.shields.io/github/last-commit/dubeypt/supply-chain-eda" />
+  </a>
+</p>
 
 ## Overview
-This project performs Exploratory Data Analysis (EDA) on a sample supply chain dataset to identify bottlenecks, supplier performance, shipment delays, and cost trends.
+This project performs Exploratory Data Analysis (EDA) on a sample supply chain dataset to uncover insights about bottlenecks, supplier performance, shipment delays, and cost trends. The analysis helps in optimizing inventory and improving overall supply chain efficiency.
 
-## Tools
-Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+## Project Objective
+- Understand key supply chain metrics and their distributions
+- Identify delays, bottlenecks, and patterns in shipments
+- Derive actionable insights for better decision-making
+
+## Dataset
+- Sample supply chain dataset containing:
+  - Orders, Shipments, Suppliers
+  - Costs, Delivery timelines, Inventory levels
+- Cleaned and preprocessed for analysis
+
+## Tools & Libraries
+- **Python**
+- **Pandas** — Data manipulation & cleaning
+- **NumPy** — Numerical computations
+- **Matplotlib & Seaborn** — Data visualization
+- **Jupyter Notebook** — Interactive development
 
 ## Highlights
 - Data cleaning & preprocessing
-- Visualized order distribution, shipment delay trends, supplier performance etc.
-- Actionable insights to reduce delays and optimize inventory.
+- Visualizations for:
+  - Order distribution
+  - Shipment delays
+  - Supplier performance
+  - Cost trends
+- Actionable insights to reduce delays and optimize inventory
 
-## How to run
+## How to Run
 ```bash
-git clone (https://github.com/dubeypt/supply-chain-eda.git)
+git clone https://github.com/dubeypt/supply-chain-eda.git
 cd supply-chain-eda
 python -m venv venv
-source venv/bin/activate
+source venv/bin/activate   # On Windows use: venv\Scripts\activate
 pip install -r requirements.txt
 jupyter lab
-
-## 🤝 Connect with Me
-- 🐙 **GitHub:** [dubeypt](https://github.com/dubeypt)
-- 💼 **LinkedIn:** [pt-aditya-dubey](https://www.linkedin.com/in/pt-aditya-dubey)
-
-
