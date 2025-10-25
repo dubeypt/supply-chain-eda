@@ -31,6 +31,7 @@ pip install -r requirements.txt
 jupyter lab
 
 ## 🤝 Connect with Me
-- **GitHub:** [https://github.com/dubeypt](https://github.com/dubeypt)
-- **LinkedIn:** [www.linkedin.com/in/pt-aditya-dubey]
+- 🐙 **GitHub:** [dubeypt](https://github.com/dubeypt)
+- 💼 **LinkedIn:** [pt-aditya-dubey](https://www.linkedin.com/in/pt-aditya-dubey)
+
 
