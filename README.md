@@ -51,10 +51,13 @@ This project performs Exploratory Data Analysis (EDA) on a sample supply chain d
 
 ## Key Visual Insights
 
-![Top SKUs by Revenue](SKU_vs_Revenue.png)
-![Customer Revenue Segmentation](Customer_Revenue_Segmentation.png)
-![Correlation Heatmap](Correlation_Heatmap.png)
-![Premium Product Outliers](Premium_Outliers.png)
+## Key Visual Insights
+
+![Top SKUs by Revenue](./SKU_vs_Revenue.png)
+![Customer Revenue Segmentation](./Customer_Revenue_Segmentation.png)
+![Correlation Heatmap](./Correlation_Heatmap.png)
+![Premium Product Outliers](./Premium_Outliers.png)
+
 
 
 **Summary:**  
