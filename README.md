@@ -8,8 +8,8 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
 ## Highlights
 - Data cleaning & preprocessing
-- Visualized order distribution, shipment delay trends, supplier performance
-- Actionable insights to reduce delays and optimize inventory
+- Visualized order distribution, shipment delay trends, supplier performance etc.
+- Actionable insights to reduce delays and optimize inventory.
 
 ## How to run
 ```bash
